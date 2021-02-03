@@ -2013,7 +2013,6 @@ __webpack_require__.r(__webpack_exports__);
   methods: {
     menuClicked: function menuClicked() {
       this.isMenuOn = !this.isMenuOn;
-      console.log(this.isMenuOn);
     }
   }
 });

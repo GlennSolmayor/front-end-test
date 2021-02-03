@@ -168,7 +168,6 @@ export default {
     methods:{
         menuClicked(){
             this.isMenuOn = !this.isMenuOn
-            console.log(this.isMenuOn);
         }
     }
 }
