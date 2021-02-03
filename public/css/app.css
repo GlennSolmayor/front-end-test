@@ -1,6 +1,6 @@
 .header {
   min-height: 467px;
-  background: url(/images/Image.png?72d9efee23b29b81e32b9af4d6c47c72) no-repeat;
+  background-image: url(/images/Image.png?72d9efee23b29b81e32b9af4d6c47c72);
   background-size: cover;
   display: table;
 }
@@ -31,7 +31,7 @@
   padding-top: 3rem;
 }
 
-@media (min-width: 768px) and (max-width: 1138px) {
+@media (min-width: 576px) and (max-width: 1138px) and (max-height: 1138px) {
   .header {
     min-height: 329px;
   }
@@ -53,10 +53,11 @@
     vertical-align: bottom;
   }
 }
-@media (min-width: 200px) and (max-width: 767PX) {
+@media (min-width: 200px) and (max-width: 575px) {
   .header {
     min-height: 322px;
-    background: url(/images/mobile-image.png?3225493b919ea7917b0d89b9cb448335) no-repeat cover !important;
+    background-image: url(/images/mobile-image.png?496a802744aa1e648dd86ca2f518950e) !important;
+    background-position: center;
   }
 
   .menu-on {

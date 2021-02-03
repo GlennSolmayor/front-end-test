@@ -19608,7 +19608,7 @@ var render = function() {
       _vm._v(" "),
       _c(
         "div",
-        { staticClass: "d-flex d-md-none p-0 justify-content-end p-3" },
+        { staticClass: "d-flex d-sm-none p-0 justify-content-end p-3" },
         [
           _c("i", {
             staticClass: "fas fa-bars",
@@ -19680,7 +19680,7 @@ var staticRenderFns = [
       "div",
       {
         staticClass:
-          "navigation d-none d-md-flex justify-content-xl-center justify-content-md-between  pt-5 px-5 p-lg-5"
+          "navigation d-none d-sm-flex justify-content-xl-center justify-content-sm-between  pt-5 px-5 p-lg-5"
       },
       [
         _c(
@@ -19798,7 +19798,7 @@ var staticRenderFns = [
       "div",
       {
         staticClass:
-          "gallery-container col-12 col-lg-12 col-xl-7 px-3 p-md-5 pb-5 ps-xl-5"
+          "gallery-container col-12 col-lg-12 col-xl-7 px-3 p-sm-5 pb-5 ps-xl-5"
       },
       [
         _c("div", { staticClass: "pb-3" }, [

@@ -18,7 +18,7 @@
                     <span class=" fw-bolder">Enter Site Slogan</span>
                 </div>
             </div>
-            <div class="navigation d-none d-md-flex justify-content-xl-center justify-content-md-between  pt-5 px-5 p-lg-5">
+            <div class="navigation d-none d-sm-flex justify-content-xl-center justify-content-sm-between  pt-5 px-5 p-lg-5">
                 <a class="text-decoration-none text-dark px-xl-4" href="#">HOME</a>
                 <a class="text-decoration-none px-xl-4" href="#">CONTACT</a>
                 <a class="text-decoration-none px-xl-4" href="#">SERVICES</a>
@@ -28,7 +28,7 @@
                 <a class="text-decoration-none px-xl-4" href="#">RESOURCES</a>
                 <a class="text-decoration-none px-xl-4" href="#">EXTRA</a>    
             </div>
-            <div class="d-flex d-md-none p-0 justify-content-end p-3">
+            <div class="d-flex d-sm-none p-0 justify-content-end p-3">
                     <i @click="menuClicked()" class="fas fa-bars" style="font-size:24px;color:#33ACD7;"></i>
             </div>
             <div class="content d-flex">
@@ -99,7 +99,7 @@
                         </div>                         
                     </div>
                 </div>   
-                <div class="gallery-container col-12 col-lg-12 col-xl-7 px-3 p-md-5 pb-5 ps-xl-5">
+                <div class="gallery-container col-12 col-lg-12 col-xl-7 px-3 p-sm-5 pb-5 ps-xl-5">
                     <div class="pb-3">
                         <span class="text-header fw-bold">Gallery</span>
                     </div>
