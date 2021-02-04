@@ -118,32 +118,32 @@
                         <ul>
                             <li class="mb-4">
                                 <div class="list-item p-0">
-                                    In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.
+                                   <p class="m-0">In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.</p>
                                 </div>                            
                             </li>                   
                             <li class="mb-4">
                                 <div class="list-item p-0">
-                                    In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.
+                                    <p class="m-0">In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.</p>
                                 </div>                            
                             </li>                   
                             <li class="mb-4">
                                 <div class="list-item p-0">
-                                    In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.
+                                   <p class="m-0">In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.</p>
                                 </div>                            
                             </li>                   
                             <li class="mb-4">
                                 <div class="list-item p-0">
-                                    In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.
+                                   <p class="m-0">In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.</p>
                                 </div>                            
                             </li>                   
                             <li class="mb-4">
                                 <div class="list-item p-0">
-                                    In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.
+                                   <p class="m-0">In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.</p>
                                 </div>                            
                             </li>                   
                             <li class="mb-4">
                                 <div class="list-item p-0">
-                                    In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.
+                                    <p class="m-0">In hac habitasse platea dictumst. Sed nec venenatis odio. Nulla faucibus ipsum sed faucibus accumsan. Donec rhoncus luctus massa vitae lobortis.</p>
                                 </div>                            
                             </li>                   
                         </ul>

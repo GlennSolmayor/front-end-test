@@ -19,11 +19,12 @@
         <title>Test</title>
 
         <!-- Fonts -->
-       <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap" rel="stylesheet">
 
         <style>
             body {
-                font-family: 'Helvetica';
+                font-family: 'Lato';
             }
         </style>
         <link rel="stylesheet" href="{{ asset('css/app.css') }}" />
